@@ -1,0 +1,33 @@
+	Cifra de César, criptografia  que consiste em deslocar 
+cada letra do alfabeto um número fixo de posições.
+
+ Exemplo:
+Texto: "Olá Mundo, Deslocamento: 3, Texto Codificado: "Rpd OqQgh.
+
+Como funciona:
+Escolha um valor de deslocamento: Este é o número de posições que cada letra será deslocada.
+
+Codificação: Para codificar, cada letra do texto é substituída pela letra que está no 
+alfabeto no valor de deslocamento após ela. Se o deslocamento chegar ao fim do alfabeto, 
+volta ao início (ex: Z se torna B com um deslocamento de 2).
+
+Decodificação: Para decodificar, o processo é o inverso. Cada letra é 
+substituída pela letra que está no alfabeto antes dela no valor de deslocamento.
+
+História:
+A cifra de César foi utilizada por Júlio César em suas comunicações militares. 
+É uma das primeiras formas documentadas de criptografia. 
+
+
+poderia implementar mais um numero antes da letra falando as codificações 
+supondo 
+
+exemplo:
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+1 = A	A = 5 casas 
+2 = B	B = 8 casas
+3 = C	C = 3 casas
+
+Olá Mundo = 3R2t1f 1R1z2v3g1t
