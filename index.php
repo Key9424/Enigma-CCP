@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Codificador de Texto</title>
-    
 <style>
 body {
     font-family: 'Courier New', Courier, monospace;
@@ -202,7 +201,7 @@ canvas {
             <button type="submit" name="action" value="encode">Codificar</button>
             <button type="submit" name="action" value="decode">Decodificar</button>
             <button><a href="/P2matematica_CCP/php/Jogo de Decodificação.php">Teste suas HABILIDADES!</a></button>
-            <button><a href="/P2matematica_CCP/php/mostrar_palavras.php">Listar Palavras Codificadas</a></button>
+            <button><a href="/P2matematica_CCP/php/mostrar_palavras.php">Palavras Codificadas</a></button>
             </div>
         </form>
 

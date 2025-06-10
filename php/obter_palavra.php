@@ -1,5 +1,4 @@
 <?php
-
 $mysqli = new mysqli("localhost", "CCP", "codificado", "ccp");
 
 if ($mysqli->connect_error) {
